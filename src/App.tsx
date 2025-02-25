@@ -25,7 +25,7 @@ function App() {
         </div>
     </main>
     <div className='footer'>
-        <p>© 2023 My Simple Blog</p>
+        <p>© 2023 My Simple Blog yehey</p>
     </div>
     </>
   )
